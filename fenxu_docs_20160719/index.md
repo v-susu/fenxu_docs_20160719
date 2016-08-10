@@ -1,5 +1,7 @@
 # Index test file for Open Publishing
 
+
+
 Video with https begin not end with player
 > [!Video https://channel9.msdn.com/Series/Youve-Got-Key-Values-A-Redis-Jump-Start/03]
 
@@ -19,3 +21,18 @@ Youku Video
 > [!Video https://static.youku.com/v1.0.0643/v/swf/loader.swf]
 
 Just a test
+
+![hersd]            (https://avatars0.githubusercontent.com/u/12146082?v=3&s=96)
+
+![hgasd]   [1]
+
+[this is toc link with title] [2]
+
+[this is toc link with title] [3]
+
+[this is toc link no title] [4]
+
+[1]: https://avatars0.githubusercontent.com/u/12146082?v=3&s=96
+[2]: toc.md "asdf"
+[3]: <toc.md> "asdf"
+[4]: toc.md
