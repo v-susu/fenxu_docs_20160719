@@ -1,6 +1,6 @@
 # Index test file for Open Publishing
 
-Video with https begin not end with player
+Video with https begin not end with player hello
 > [!Video https://channel9.msdn.com/Series/Youve-Got-Key-Values-A-Redis-Jump-Start/03]
 
 Video with http begin not end with player
