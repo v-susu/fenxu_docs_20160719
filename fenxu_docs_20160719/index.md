@@ -1,5 +1,7 @@
 # Index test file for Open Publishing
 
+tag v2.0
+
 Video with https begin not end with player hello
 > [!Video https://channel9.msdn.com/Series/Youve-Got-Key-Values-A-Redis-Jump-Start/03]
 
