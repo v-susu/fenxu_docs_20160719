@@ -33,6 +33,9 @@ src="https://www.youtube.com/embed/XGSy3_Czz8k">
 Youku video embedded html-1:
 <embed src="http://player.youku.com/player.php/sid/XMTAzMzA3ODI0/v.swf" quality="high" width="480" height="400" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash"></embed>
 
+Youku video embedded html-1-2:
+<embed src="https://player.youku.com/player.php/sid/XMTAzMzA3ODI0/v.swf" quality="high" width="480" height="400" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash"></embed>
+
 Youku video embedded html-2:
 <embed src="http://player.youku.com/player.php/sid/XMTAzMzA3ODI0/v.swf" quality="high" width="480" height="400"></embed>
 
