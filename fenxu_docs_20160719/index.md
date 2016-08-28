@@ -36,6 +36,9 @@ Youku video embedded html-1:
 Youku video embedded html-2:
 <embed src="http://player.youku.com/player.php/sid/XMTAzMzA3ODI0/v.swf" quality="high" width="480" height="400"></embed>
 
+Youku video embedded html-3:
+<embed src="https://player.youku.com/player.php/sid/XMTAzMzA3ODI0/v.swf" quality="high" width="480" height="400"></embed>
+
 ![hersd]            (https://avatars0.githubusercontent.com/u/12146082?v=3&s=96)
 
 ![hgasd]   [1]
