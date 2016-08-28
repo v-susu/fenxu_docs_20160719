@@ -30,6 +30,9 @@ Youtube video embedded html:
 src="https://www.youtube.com/embed/XGSy3_Czz8k">
 </iframe> 
 
+Youku video 0-1:
+<embed src="http://player.youku.com/player.php/sid/XMzQ5Njg4NDQ=/v.swf" quality="high" width="480" height="400" align="middle" allowscriptaccess="sameDomain" type="application/x-shockwave-flash"/>
+
 Youku video embedded html-1:
 <embed src="http://player.youku.com/player.php/sid/XMTAzMzA3ODI0/v.swf" quality="high" width="480" height="400" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash"></embed>
 
