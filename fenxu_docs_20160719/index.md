@@ -22,6 +22,14 @@ Youku Video
 
 Just a test
 
+Youtube video markdown
+> [!Video https://www.youtube.com/embed/XGSy3_Czz8k]
+
+Youtube video embedded html:
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/XGSy3_Czz8k">
+</iframe> 
+
 ![hersd]            (https://avatars0.githubusercontent.com/u/12146082?v=3&s=96)
 
 ![hgasd]   [1]
