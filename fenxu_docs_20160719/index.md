@@ -48,6 +48,10 @@ Youku video embedded html-2:
 Youku video embedded html-3:
 <embed src="https://player.youku.com/player.php/sid/XMTAzMzA3ODI0/v.swf" quality="high" width="480" height="400"></embed>
 
+3rd embed:
+<a class="embedly-card" href="http://static.youku.com/v1.0.0643/v/swf/player_yknpsv.swf">Card</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
 ![hersd]            (https://avatars0.githubusercontent.com/u/12146082?v=3&s=96)
 
 ![hgasd]   [1]
