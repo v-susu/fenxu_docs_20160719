@@ -11,7 +11,7 @@ ms.contentid: f92b9363-6b36-4576-98ad-6c2fbf09d536
 </div>
 
 # Build (1.0)
-[!INCLUDE [API_version](../_data/version.md)]
+**api-version** = 1.0
 
 A [build request](./requests.md) references a [build definition](./definitions.md) to add a new [build](./builds.md) to a [build queue](./queues.md).
 Completed builds are assigned a [build quality](./qualities.md).
