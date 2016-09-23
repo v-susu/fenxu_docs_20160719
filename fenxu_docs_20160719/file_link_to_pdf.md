@@ -8,3 +8,6 @@ Here's a pdf link.
 
 [!code-cs[not exist](not_exist_folder/file.cs)]
 
+[!INCLUDE[Token in include](token.md)]
+
+[!INCLUDE[Token in include](../token2.md)]
