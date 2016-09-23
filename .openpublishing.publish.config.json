@@ -28,6 +28,12 @@
       "url": "https://github.com/Microsoft/templates.docs.msft",
       "branch": "master",
       "branch_mapping": {}
-    }
+    },
+	{
+      "path_to_root": "_repo.en-us",
+      "url": "https://github.com/fenxuorg/fenxu_docs_20160719",
+      "branch": "fallback_test",
+      "branch_mapping": {}
+	}
   ]
 }
