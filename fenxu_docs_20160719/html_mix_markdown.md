@@ -100,9 +100,6 @@
     }
 }
 </pre></div></div></div></div>
-
-# TTTTTTTTTTTTTTTTTTTT2 here
-
           </li><li>
             
               <p>Create a folder and class for Visual Basic code by repeating steps 2-7 using the following values:</p>
