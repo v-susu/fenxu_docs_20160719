@@ -28,7 +28,9 @@
     ],
     "overwrite": [],
     "externalReference": [],
-    "globalMetadata": {},
+    "globalMetadata": {
+      "contributors_to_exclude": [ "partychen" ]
+    },
     "fileMetadata": {},
     "template": [
       null
