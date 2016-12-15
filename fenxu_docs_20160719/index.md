@@ -83,3 +83,5 @@ This is the [extern link](http://channel9.msdn.com/Series/Youve-Got-Key-Values-A
 This is the [internal file link](Add a file.md)
 
 This is the [path to root file link](/abc)
+
+This is the [path to another toc file link](../fenxu_docs_20160720/storsimple.md#abcd)
