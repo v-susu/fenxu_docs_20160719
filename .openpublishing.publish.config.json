@@ -17,21 +17,6 @@
       },
       "build_entry_point": "docs",
       "template_folder": "_themes"
-    },
-    {
-      "docset_name": "fenxu_docs_20160720",
-      "build_source_folder": "fenxu_docs_20160720",
-      "build_output_subfolder": "fenxu_docs_20160720",
-      "locale": "en-us",
-      "version": 0,
-      "open_to_public_contributors": true,
-      "type_mapping": {
-        "Conceptual": "Content",
-        "ManagedReference": "Content",
-        "RestApi": "Content"
-      },
-      "build_entry_point": "docs",
-      "template_folder": "_themes"
     }
   ],
   "Targets": {
@@ -43,14 +28,6 @@
   "branches_to_filter": [],
   "skip_source_output_uploading": false,
   "dependent_repositories": [
-    {
-      "path_to_root": "_themes",
-      "url": "https://github.com/Microsoft/templates.docs.msft",
-      "branch": "master",
-      "branch_mapping": {
-        "master": "develop"
-      }
-    },
     {
       "path_to_root": "_themes.pdf",
       "url": "https://github.com/Microsoft/templates.docs.msft.pdf",
