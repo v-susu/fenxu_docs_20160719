@@ -71,4 +71,4 @@ Youku video embedded html-3:
 [4]: toc.md
 
 
-This is the [file link](index.md#index-test-file-for-open-publishing)
+This is the [file link](#)
