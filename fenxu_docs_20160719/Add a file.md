@@ -4,3 +4,5 @@ test
 
 
 test2
+
+![Candy](candy.jpg)
