@@ -11,7 +11,7 @@
           "**/includes/**"
         ],
         "src": ".",
-        "dest": "articles/fenxu"
+        "dest": "articles/fenxu2"
       }
     ],
     "resource": [
