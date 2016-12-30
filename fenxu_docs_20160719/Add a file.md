@@ -6,3 +6,5 @@ test
 test2
 
 ![Candy](candy.jpg)
+
+[!INCLUDE[token](../token.md)]
