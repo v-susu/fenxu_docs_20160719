@@ -5,4 +5,4 @@ test
 
 test2
 
-![Candy](candy.jpg)
+![Candy](abc/candy.jpg)
