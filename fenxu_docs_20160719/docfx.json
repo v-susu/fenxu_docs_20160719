@@ -9,21 +9,25 @@
           "**/obj/**",
           "fenxu_docs_20160719/**",
           "**/includes/**"
-        ]
+        ],
+        "src": ".",
+        "dest": "articles/fenxu2"
       }
     ],
     "resource": [
       {
         "files": [
           "**/*.png",
-		  "**/*.pdf",
+          "**/*.pdf",
           "**/*.jpg"
         ],
         "exclude": [
           "**/obj/**",
           "fenxu_docs_20160719/**",
           "**/includes/**"
-        ]
+        ],
+        "src": ".",
+        "dest": "articles/fenxu"
       }
     ],
     "overwrite": [],
