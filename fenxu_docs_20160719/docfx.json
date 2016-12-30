@@ -9,7 +9,9 @@
           "**/obj/**",
           "fenxu_docs_20160719/**",
           "**/includes/**"
-        ]
+        ],
+        "src": ".",
+        "dest": "articles/fenxu"
       }
     ],
     "resource": [
@@ -23,7 +25,9 @@
           "**/obj/**",
           "fenxu_docs_20160719/**",
           "**/includes/**"
-        ]
+        ],
+        "src": ".",
+        "dest": "articles/fenxu"
       }
     ],
     "overwrite": [],
