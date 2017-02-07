@@ -1,3 +1,9 @@
+---
+a:
+  a: b
+  c: d
+---
+
 # File with space in name. 111
 
 test
