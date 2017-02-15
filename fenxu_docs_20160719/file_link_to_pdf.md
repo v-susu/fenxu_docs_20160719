@@ -1,5 +1,5 @@
 ---
-title: "<TKey, TValue>"
+title: "&ltTKey, TValue&gt"
 layout: Reference
 ---
 
