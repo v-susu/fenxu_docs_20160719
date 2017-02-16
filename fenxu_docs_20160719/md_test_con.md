@@ -1,5 +1,5 @@
 ---
-title: "<TKey, TValue>"
+title: "&lt;TKey, TValue&gt;"
 ---
 
 # This is a sample file that contains link to pdf
