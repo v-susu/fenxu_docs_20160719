@@ -36,6 +36,8 @@
     "template": [
       null
     ],
-    "dest": "fenxu_docs_20160719"
+    "dest": "fenxu_docs_20160719",
+    "exportRawModel": true,
+    "exportViewModel": true
   }
 }
