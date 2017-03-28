@@ -2,17 +2,17 @@
 
 ###	Buy HockeyApp Business plans from the Visual Studio Marketplace
 
-0.	Sign in to 
+0.    Sign in to 
 [Visual Studio Marketplace > Subscriptions](https://marketplace.visualstudio.com/subscriptions) 
 with your Microsoft account, or with your work or school account.
 
-0.	Choose the HockeyApp Business plan based how 
+0.    Choose the HockeyApp Business plan based how 
 how many apps and owners that you'll have 
 in your HockeyApp account. For example:
 
-	<img alt="Choose a monthly HockeyApp Business plan" src="./_img/get-hockeyapp/choose-plan.png" style="border: 1px solid #CCCCCC" />
+    <img alt="Choose a monthly HockeyApp Business plan" src="./_img/get-hockeyapp/choose-plan.png" style="border: 1px solid #CCCCCC" />
 
-	<img alt="Click Buy" src="./_img/get-hockeyapp/buy-hockeyapp-plan.png" style="border: 1px solid #CCCCCC" />
+    <img alt="Click Buy" src="./_img/get-hockeyapp/buy-hockeyapp-plan.png" style="border: 1px solid #CCCCCC" />
 
 0.	Select the Azure subscription that you want to use for billing. 
 Or sign up for a new Azure subscription, if you don't have one.
