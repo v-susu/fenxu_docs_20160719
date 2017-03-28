@@ -1,3 +1,7 @@
+<a id="buy-hockeyapp-business"></a>
+
+###	Buy HockeyApp Business plans from the Visual Studio Marketplace
+
 0.	Sign in to 
 [Visual Studio Marketplace > Subscriptions](https://marketplace.visualstudio.com/subscriptions) 
 with your Microsoft account, or with your work or school account.
@@ -26,3 +30,9 @@ Or sign up for a new Azure subscription, if you don't have one.
 	Congratulations, you completed your purchase successfully!
 
 	<img alt="Purchase confirmed, sending activation mail, and setting up account" src="./_img/get-hockeyapp/buy-hockeyapp-plan-success.png" style="border: 1px solid #CCCCCC" />
+
+###	Activate your HockeyApp plan after purchase
+
+After you finish your purchase, you'll get a confirmation 
+mail from HockeyApp with an activation link and instructions 
+to choose a new or existing HockeyApp account.
