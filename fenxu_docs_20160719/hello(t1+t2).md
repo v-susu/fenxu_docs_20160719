@@ -14,3 +14,4 @@ This is [abc index file](~/abc/index.md)
 
 Include abc index file content  
 
+## Concat(String, String)
