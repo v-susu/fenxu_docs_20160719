@@ -30,7 +30,8 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-      "contributors_to_exclude": [ "partychen", "fenxu" ]
+      "contributors_to_exclude": [ "partychen", "fenxu" ],
+      "dev_langs": ["powershell"]
     },
     "fileMetadata": {},
     "template": [
