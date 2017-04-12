@@ -13,5 +13,5 @@
 ``` 
 
 ## API Swagger
-[!code-REST-i[calendar_api_get_calendar_by_id](..\Data\calendar_api_get_calendar_by_id.json)]
+[!code-REST-i[calendar_api_get_calendar_by_id](..\..\..\Data\calendar_api_get_calendar_by_id.json)]
 
