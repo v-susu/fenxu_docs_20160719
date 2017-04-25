@@ -18,7 +18,8 @@
         "files": [
           "**/*.png",
 		  "**/*.pdf",
-          "**/*.jpg"
+          "**/*.jpg",
+		  "**/*.config"
         ],
         "exclude": [
           "**/obj/**",
