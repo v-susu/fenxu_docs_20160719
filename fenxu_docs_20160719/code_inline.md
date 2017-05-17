@@ -5,3 +5,9 @@ thi is [!code-cs[cs](CustomizeHrefForAzure.cs)][!code-cs[cs](CustomizeHrefForAzu
 
 ## 2
 thi is [!code-cs[cs](CustomizeHrefForAzure.cs)] [!code-cs[cs](CustomizeHrefForAzure.cs)] code
+
+> [!NOTE]
+> asdfasdf
+> adsf
+> [!WARNING]
+> asdf
