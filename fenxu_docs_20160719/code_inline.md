@@ -1,10 +1,10 @@
 # code inline
 
 ## 1
-thi is [!code-cs[cs](CustomizeHrefForAzure.cs#1)][!code-cs[cs](CustomizeHrefForAzure.cs#1)] code
+thi is [!code-cs[cs](CustomizeHrefForAzure.cs)][!code-cs[cs](CustomizeHrefForAzure.cs)] code
 
 ## 2
-thi is [!code-cs[cs](CustomizeHrefForAzure.cs#1)] [!code-cs[cs](CustomizeHrefForAzure.cs#1)] code
+thi is [!code-cs[cs](CustomizeHrefForAzure.cs)] [!code-cs[cs](CustomizeHrefForAzure.cs)] code
 
 > [!NOTE]
 > asdfasdf
