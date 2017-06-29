@@ -32,7 +32,8 @@
     "externalReference": [],
     "globalMetadata": {
       "contributors_to_exclude": [ "partychen", "fenxu" ],
-      "dev_langs": ["powershell"]
+      "dev_langs": ["powershell"],
+	  "breadcrumb_path": "breadcrumb/toc.yml"
     },
     "fileMetadata": {},
     "template": [
