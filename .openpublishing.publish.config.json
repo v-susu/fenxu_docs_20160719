@@ -4,7 +4,7 @@
   "branch_target_mapping": {
     "live": ["Publish", "PDF"],
     "master": ["Publish", "PDF"]
-  },
+  }, 
   "Targets": {
     "Pdf": {
       "template_folder": "_themes.pdf"
