@@ -1,6 +1,5 @@
 ---
-title: hello
-content_type: 123
+content_type: invalid_type
 ---
 
 Add one new file to build asdf 123
